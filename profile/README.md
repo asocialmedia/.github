@@ -1,18 +1,3 @@
-```⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡜⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠯⠥⠄⡇⠀⠀⠀⠀⠀⠀⠀⠀ ASOCIALMEDIA co — one place. every you.⠀  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠮⡱⠗⠒⣲⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⡇⡜⠥⠒⡔⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀A cozy corner of the internet
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡊⢳⠎⠉⡩⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀that actually gets you
-⠀⠀⠀⠀⠀⠀⠀⠀⢰⡃⢀⠋⢉⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀your feed,
-⠀⠀⠀⠀⠀⠀⠀⠀⡃⠸⢙⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀your reputation,
-⠀⠀⠀⠀⠀⠀⠀⠀⡟⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀your companion,
-⠀⠀⠀⠀⠀⠀⠀⡞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀your verse.
-⠀⠀⠀⠀⠀⢀⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Now building :)
-⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
-
-<!-- <div align="center">
-    <img src="https://storage-r2.zephyyrr.in/Assets/zephyr-githubanner.jpg" alt="Zephyr Banner">
-</div> -->
+<div align="center">
+    <img src="https://cdn.asocialmedia.cc/org_banner.png" alt="asocialmedia banner">
+</div>
